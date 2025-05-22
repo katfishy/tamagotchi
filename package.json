@@ -1,0 +1,23 @@
+{
+  "name": "cakeling",
+  "version": "1.0.0",
+  "description": "tamagotchi game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katfishy/tamagotchi.git"
+  },
+  "author": "Katie Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katfishy/tamagotchi/issues"
+  },
+  "homepage": "https://github.com/katfishy/tamagotchi#readme",
+  "devDependencies": {
+    "electron": "^36.3.0"
+  }
+}
