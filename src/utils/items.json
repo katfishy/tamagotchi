@@ -1,0 +1,14 @@
+{
+    "food": [
+        {
+            "Ramen": 2,
+            "Udon": 2,
+            "Strawberry": 1
+        }
+
+    ],
+
+    "hats": [
+        "Teemo Hat"
+    ]
+}
